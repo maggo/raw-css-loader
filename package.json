@@ -1,11 +1,11 @@
 {
-	"name": "raw-loader",
-	"version": "0.5.1",
+	"name": "raw-css-loader",
+	"version": "0.1.0",
 	"author": "Tobias Koppers @sokra",
-	"description": "raw loader module for webpack",
+	"description": "raw css loader module for webpack",
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:webpack/raw-loader.git"
+		"url": "git@github.com:maggo/raw-css-loader.git"
 	},
 	"licenses": [
 		{
