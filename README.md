@@ -1,14 +1,14 @@
-# raw loader for webpack
+# raw css loader for webpack
 
 ## Installation
 
-`npm install raw-loader`
+`npm install maggo/raw-css-loader`
 
 ## Usage
 
 ``` javascript
-var fileContent = require("raw!./file.txt");
-// => returns file.txt content as string
+var fileContent = require("raw-css!./file.css");
+// => returns file.txt content as string with optional sourcemap support
 ```
 
 [Documentation: Using loaders](http://webpack.github.io/docs/using-loaders.html)
